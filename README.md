@@ -54,7 +54,7 @@ Reduce manual effort through automation
 Improve financial decision-making
 
 📸 Preview
-https://github.com/SushNandy/Fintech_Financial_Projection_Model/blob/main/Fintech%20Financial%20Projection%20Model.png
+![Alt text](https://github.com/SushNandy/Fintech_Financial_Projection_Model/blob/main/Fintech%20Financial%20Projection%20Model.png)
 
 📚 Learning Outcomes
 Through this project, I strengthened my skills in:
